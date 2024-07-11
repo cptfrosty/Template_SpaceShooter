@@ -6,4 +6,4 @@
 
 Версия Unity 2023.2.18f1
 
-![alt text](https://github.com/cptfrosty/Template_SpaceShooter/Screenshots/Screenshot_1.png)
+![alt text](https://github.com/cptfrosty/Template_SpaceShooter/blob/main/Screenshots/Screenshot_1.png)
